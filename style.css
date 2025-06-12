@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 body{
     background: 
-        linear-gradient(rgba(45,0,54,0.85), rgba(161,0,107,0.7)), /* subtle reddish purple overlay */
+        linear-gradient(rgba(45,0,54,0.85), rgba(161,0,107,0.7)), 
         url('bg1.jpg') center center/cover no-repeat;
     min-height: 100vh;
 }
@@ -49,7 +49,7 @@ nav ul li{
     width: 70%;
     border-radius: 12px;
     padding: 34px;
-    /* Add your background image here */
+    
     background: 
         linear-gradient(rgba(161,0,107,0.85), rgba(58,0,87,0.85)), /* reddish purple overlay */
         url('bg.jpg') center center/cover no-repeat;
